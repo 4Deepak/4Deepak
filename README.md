@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @4Deepak
+- 👋 Hi, I’m @4Deepak, a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions.
 - 👀 I’m interested in Data cleaning, analysis and visualisation.
 - 🌱 I’m currently learning Data Analysis using Python programming.
 - 💞️ I’m looking to collaborate on a compelling data analysis projects.
-A versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions.
 - 📫 How to reach me ... alengthof@outlook.com
 
 
