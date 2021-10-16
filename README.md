@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data cleaning, analysis and visualisation.
 - 🌱 I’m currently learning Data Analysis using Python programming.
 - 💞️ I’m looking to collaborate on a compelling data analysis projects.
-- 📫 How to reach me ... alengthof@outlook.com
+- 📫 You can reach me at 'alengthof@outlook.com'
 
 
 <!---
